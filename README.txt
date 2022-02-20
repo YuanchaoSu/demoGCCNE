@@ -6,7 +6,7 @@
 # Title: "Graph-Cut-Based Collaborative Node Embeddings for Hyperspectral Images Classification"
 #
 # ----------------------------------------------------------------------------------------
-# Authors: Yuanchao Su, Lianru Gao, Mengying Jiang, Xu Sun, Pengfei Li and Bing Zhang
+# Authors: Yuanchao Su, Lianru Gao, Mengying Jiang, Xu Sun, Xueer You, and Pengfei Li
 # Recommendation：Please use MATLAB 2020 or later version to run the demo.
 # RAM: 16GB
 #
